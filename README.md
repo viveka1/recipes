@@ -11,4 +11,12 @@ Appam
 Puttu
 
 
+Lunch
+
+Rice
+Sambar
+Rasam
+Curd
+Potato fry
+
 
